@@ -1,5 +1,7 @@
 # Miembros
 
+* Nick Fury
+* La mole
 * Black panther
 * Black Widow
 * Capitán America
